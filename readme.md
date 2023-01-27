@@ -1,4 +1,4 @@
-### ?? Socials
+### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassimazirar) [![StackOverflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/346297/wassim-azirar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/wassim_azirar) 
 
 <div>
@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wassim-azirar&hide_border=true&cache_seconds=1800&theme=blueberry&show_icons=true&count_private=true&include_all_commits=true" height="175em" />
 </div>
 
-### ?? Backend ??
+### 🔚 Backend 🔚
 
 <p float="left">
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-### ??? Frontend ???
+### 🖥️ Frontend 🖥️
 
 <p float="left">
   <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ?? API ??
+### 🗺 API 🗺
 
 <p float="left">
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
@@ -34,14 +34,14 @@
   <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### ?? Cloud ??
+### ☁️ Cloud ☁️
 
 <p float="left">
   <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-### ?? DevOps ??
+### ⚙️ DevOps ⚙️
 
 <p float="left">
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />
@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-### ?? Databases ??
+### 📈 Databases 📈
 
 <p float="left">
   <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
