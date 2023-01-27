@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Full Stack Web Developer** (specializing in **React Applications**)
+🎓 I am a **Full Stack Web Developer** (specializing in **React, Laravel and Docker Skills**)
 I have a bachelor's degree in **Computer Science and Technology**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2019, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**.
@@ -17,10 +17,10 @@ I have a bachelor's degree in **Computer Science and Technology**.
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/ruby-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![c#](https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white)
 
 ### Front-End Development
 
@@ -44,13 +44,12 @@ I have a bachelor's degree in **Computer Science and Technology**.
 
 ### Back-End Development
 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ### Database
 
@@ -110,8 +109,8 @@ I have a bachelor's degree in **Computer Science and Technology**.
 
 ## 🔗 Links
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:dreamboat0412@gmail.com)
-[![skype](https://img.shields.io/badge/skype-%232E87FB.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/w5hop9B0lMc2)
-[![telegram](https://img.shields.io/badge/telegram-%231E77B5.svg?&style=for-the-badge&logo=telegram&=white)](https://t.me/dreamboat9999)
+[![linkedin](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oki-seiichi-ninja)
+[![twitter](https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oki_seiichi)
+[![facebook](https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088285220627)
 
 </p>
