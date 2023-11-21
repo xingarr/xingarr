@@ -101,8 +101,6 @@ I have a bachelor's degree in **Computer Science and Technology**.
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/oki-seiichi-ninja)
-[![twitter](https://img.shields.io/badge/twitter-%232E87FB.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oki_seiichi)
-[![facebook](https://img.shields.io/badge/facebook-%231E77B5.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100088285220627)
+[![linkedin](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davion-smith96321)
 
 </p>
