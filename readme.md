@@ -99,8 +99,4 @@ I have a bachelor's degree in **Computer Science and Technology**.
 <img width=360 src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboat999&hide_title=true&layout=compact&count_private=true&langs_count=8&theme=highcontrast" />
 </p>
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davion-smith96321)
-
 </p>
